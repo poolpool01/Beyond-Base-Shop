@@ -24,5 +24,5 @@
 ## 📸 Screenshots
 | Desktop Version | Mobile Version |
 |---|---|
-| ![Desktop](<img width="2542" height="1244" alt="image" src="https://github.com/user-attachments/assets/7e01ac15-f3be-44ad-9874-2590ba879daf" />) | ![Mobile](<img width="524" height="1120" alt="image" src="https://github.com/user-attachments/assets/0c7ad9bc-189c-4c6a-836b-772d9e5880b3" />) |
+|![Desktop]<img width="2542" height="1244" alt="image" src="https://github.com/user-attachments/assets/7e01ac15-f3be-44ad-9874-2590ba879daf" /> | ![Mobile]<img width="524" height="1120" alt="image" src="https://github.com/user-attachments/assets/0c7ad9bc-189c-4c6a-836b-772d9e5880b3" /> |
 
