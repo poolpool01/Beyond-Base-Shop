@@ -1,16 +1,28 @@
-# React + Vite
+# Beyond.Base - E-commerce Landing Page (Front-end)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+โปรเจกต์หน้า Landing Page สำหรับร้านขายเสื้อผ้าแฟชั่นออนไลน์ เน้นความทันสมัย รองรับการแสดงผลทุกหน้าจอ (Responsive Design) พัฒนาด้วย React และ Tailwind CSS
 
-Currently, two official plugins are available:
+## 📋 เกี่ยวกับโปรเจกต์ (About This Project)
+โปรเจกต์นี้เป็นการจำลองหน้าเว็บ E-commerce (Front-end เท่านั้น) โดยเน้นไปที่ UI/UX ที่ใช้งานง่าย สวยงาม และการจัดวาง Layout ที่ซับซ้อนให้แสดงผลได้ดีทั้งบนคอมพิวเตอร์และมือถือ
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*   **Responsive:** รองรับ Desktop และ Mobile
+*   **Focus:** การจัดการ Components และการใช้ Utility-first CSS (Tailwind)
 
-## React Compiler
+## 💻 Tech Stack
+*   **Core:** [React.js](https://reactjs.org/)
+*   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+*   **Icons:** [React-icons](https://react-icons.github.io/react-icons/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ คุณสมบัติเด่น (Features)
+*   **Hero Section:** แบนเนอร์เปิดตัวพร้อมปุ่ม Call to Action
+*   **Brand Showcase:** ส่วนแสดงโลโก้แบรนด์พันธมิตร
+*   **Product Sections:** ส่วนแสดงสินค้าใหม่ (New Arrivals) และสินค้าขายดี (Top Selling)
+*   **Category Grid:** เลือกดูสินค้าตามสไตล์ (Browse by Dress Style)
+*   **Testimonials:** ส่วนรีวิวจากลูกค้า (Customer Feedback)
+*   **Newsletter & Footer:** ระบบสมัครรับข่าวสารและส่วนท้ายของเว็บไซต์
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
+| Desktop Version | Mobile Version |
+|---|---|
+| ![Desktop](<img width="2542" height="1244" alt="image" src="https://github.com/user-attachments/assets/7e01ac15-f3be-44ad-9874-2590ba879daf" />) | ![Mobile](<img width="524" height="1120" alt="image" src="https://github.com/user-attachments/assets/0c7ad9bc-189c-4c6a-836b-772d9e5880b3" />) |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
